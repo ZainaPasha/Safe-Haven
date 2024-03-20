@@ -1,0 +1,149 @@
+{
+  "Header": {
+    "title": "Welcome to Safe Haven!",
+    "paragraph": "Your dedicated sanctuary for mental well-being. Here, you'll find a supportive community, resources, and tools to navigate your mental health journey. We're here to listen, support, and empower you every step of the way. Take a deep breath, you're in a safe space now."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "",
+      "largeImage": "img/screen1.jpg",
+      "smallImage": "img/screen1.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/screen2.jpg",
+      "smallImage": "img/screen2.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/screen3.jpg",
+      "smallImage": "img/screen3.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-magic",
+      "name": "Minute Meditation",
+      "text": "Quick, guided mindfulness sessions to promote relaxation and mental clarity."
+    },
+    {
+      "icon": "fa fa-comments",
+      "name": "Loner Bots",
+      "text": "Virtual companions designed to provide support and companionship to users who feel lonely."
+    },
+    {
+      "icon": "fa fa-pagelines",
+      "name": "Mindful Journaling",
+      "text": "Encourages users to reflect on their thoughts and emotions with a focus on present moment awareness and self-awareness."
+    },
+    {
+      "icon": "fa fa-sliders",
+      "name": "Mood Tracker",
+      "text": "Log and monitor your emotional well-being over time within Safe Haven."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Therapy Sessions",
+      "text": "Accessible, confidential therapy sessions with licensed professionals tailored to your needs, right from the comfort of your Safe Haven app"
+    },
+    {
+      "icon": "fa fa-gamepad",
+      "name": "Exciting Levels",
+      "text": "Storylined and gamified levels to keep the users coming back to the application"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Suchitra",
+      "job": "Chief Technical Officer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Zaina Pasha",
+      "job": "Chief Executive Officer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Tahseen Noor Fathima",
+      "job": "Chief Strategy Officer"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "safehaven.zts2024@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-magic",
+      "title": "Minute Meditation",
+      "text": "Quick, guided mindfulness sessions to promote relaxation and mental clarity."
+    },
+    {
+      "icon": "fa fa-comments",
+      "title": "Loner Bots",
+      "text": "Virtual companions designed to provide support and companionship to users who feel lonely."
+    },
+    {
+      "icon": "fa fa-pagelines",
+      "title": "Mindful Journaling",
+      "text": "Encourages users to reflect on their thoughts and emotions with a focus on present moment awareness and self-awareness."
+    },
+    {
+      "icon": "fa fa-sliders",
+      "title": "Mood Tracker",
+      "text": "Log and monitor your emotional well-being over time within Safe Haven."
+    }
+  ]
+}
